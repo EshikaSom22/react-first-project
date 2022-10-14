@@ -17,7 +17,7 @@ const App=() => {
 <div className='input-box'>
 <span className='label'>Last Name</span>
 <input type="text" placeholder='Enter your last name' className='input'></input>
-</div> 
+</div>
 <span className='label'>Email Address</span>
 <input type="text" placeholder='Enter your email' className='input'></input>
 <Gender />
